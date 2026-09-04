@@ -12,6 +12,7 @@ for i in range(3):
 
 # Iterating over dictionary key-value pairs
 user = {"name": "Alice", "role": "Developer"}
+
 for key, value in user.items():
     print(f"{key}: {value}")
 
